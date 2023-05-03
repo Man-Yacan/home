@@ -1,46 +1,46 @@
 {
-    "title": "無名の主页",
-    "description": "一个默默无闻的主页",
-    "keywords": "無名,个人主页",
-    "author": "無名",
-    "logo_img": "./img/icon/logo.png",
-    "logo_text_1": "imsyy",
-    "logo_text_2": "top",
-    "github": "imsyy",
-    "qq": "1539250352",
-    "email": "one@imsyy.top",
-    "bilibili": "98544142",
-    "telegram": "bottom_user",
+    "title": "曼亚灿的个人网站 - 导航页",
+    "description": "曼亚灿的个人网站",
+    "keywords": "曼亚灿",
+    "author": "曼亚灿",
+    "logo_img": "./favicon.ico",
+    "logo_text_1": "manyacan",
+    "logo_text_2": "com",
+    "github": "Man-Yacan",
+    "qq": "931941244",
+    "email": "myxc@live.cn",
+    "bilibili": "92561951",
+    "telegram": "YacanMan_CN",
     "link_1": [
-        "https://blog.imsyy.top/",
+        "https://jps.zone/",
+        "fa-solid fa-location-arrow",
+        "导航"
+    ],
+    "link_2": [
+        "https://blog.manyacan.com/",
         "fa-solid fa-blog",
         "博客"
     ],
-    "link_2": [
-        "https://drive.imsyy.top/",
-        "fa-solid fa-cloud",
-        "网盘"
-    ],
     "link_3": [
-        "https://music.imsyy.top/",
-        "fa-solid fa-music",
-        "音乐"
+        "https://status.manyacan.com/status/dashboard/",
+        "fa-solid fa-gauge-high",
+        "监控"
     ],
     "link_4": [
-        "https://nav.imsyy.top/",
-        "fa-solid fa-compass",
-        "起始页"
+        "https://blog.manyacan.com/emo.html/",
+        "fa-solid fa-face-grin-tongue-wink",
+        "矫情"
     ],
     "link_5": [
-        "https://web.imsyy.top/",
-        "fa-solid fa-book-bookmark",
-        "网址集"
+        "https://v6.51.la/user/application/",
+        "fas fa-table",
+        "统计"
     ],
     "link_6": [
-        "https://lab.imsyy.top/",
-        "fa-solid fa-flask",
-        "实验室"
+        "https://blog.manyacan.com/readme.html",
+        "fa-solid fa-wheelchair-move",
+        "关于"
     ],
-    "Copyright_text": "無名",
-    "beian": "豫ICP备2022018134号-1"
+    "Copyright_text": "曼亚灿",
+    "beian": "豫ICP备20011308号-1"
 }
